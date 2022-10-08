@@ -25,6 +25,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp">
             <EditText
+                android:id="@+id/email_edittext"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/email"/>
@@ -35,12 +36,17 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp">
+
+        <!-- Password 입력 창 -->
         <EditText
+            android:inputType="textPassword"
+            android:id="@+id/password_edittext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/password"/>
     </com.google.android.material.textfield.TextInputLayout>
         <Button
+            android:id="@+id/email_login_button"
             android:text="@string/signin_email"
             android:layout_width="match_parent"
             android:layout_height="40dp"

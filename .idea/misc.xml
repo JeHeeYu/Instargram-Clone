@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/Instargram/app/src/main/res/layout/activity_login.xml" value="0.2636103151862464" />
         <entry key="..\:/Instargram/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Instargram/app/src/main/res/layout/fragment_alarm.xml" value="0.12182971014492754" />
+        <entry key="..\:/Instargram/app/src/main/res/layout/fragment_detail.xml" value="0.12182971014492754" />
+        <entry key="..\:/Instargram/app/src/main/res/layout/fragment_grid.xml" value="0.12182971014492754" />
+        <entry key="..\:/Instargram/app/src/main/res/layout/fragment_user.xml" value="0.12182971014492754" />
+        <entry key="..\:/Instargram/app/src/main/res/menu/bottom_navigation_main.xml" value="0.19322916666666667" />
       </map>
     </option>
   </component>

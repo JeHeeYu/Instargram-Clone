@@ -56,6 +56,7 @@
             android:layout_marginBottom="35dp" />
 
         <Button
+            android:id="@+id/facebook_login_button"
             android:layout_width="match_parent"
             android:layout_height="40dp"
             android:layout_marginLeft="20dp"

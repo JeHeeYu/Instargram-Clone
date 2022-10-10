@@ -65,6 +65,7 @@
             android:text="@string/signin_facebook"
             android:textColor="@color/colorWhite" />
         <Button
+            android:id="@+id/google_sign_in_button"
             android:text="@string/signin_google"
             android:textColor="@color/colorWhite"
             android:background="@drawable/btn_signin_google"
